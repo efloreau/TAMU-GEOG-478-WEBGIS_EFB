@@ -1,0 +1,32 @@
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color:#f8edeb ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    text-align: center;
+    background-color:#EDAFB8;
+    border-style: double;
+    border-color:#4A5759;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+th {
+    background-color:#4A5759;
+}
+
+p.small {
+    line-height: 0.9;
+  }
+
+  img {
+    float: right;
+    border:1px solid rgb(49, 48, 48);
+  }
